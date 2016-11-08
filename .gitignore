@@ -1,3 +1,5 @@
 .DS_Store
+.python-version
+.serverless
 vendor/
 node_modules/
